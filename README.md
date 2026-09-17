@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FF5A00,50:FF6A00,100:FF8C00&text=NOT%20MAIKEISE&fontColor=FFF4E6&fontSize=48&fontAlignY=42&desc=software%20%E2%80%A2%20games%20%E2%80%A2%20stories%20%E2%80%A2%20systems&descAlignY=63&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FF5A00,50:FF6A00,100:FF8C00&text=ANNY%20MAIKEISE&fontColor=FFF4E6&fontSize=48&fontAlignY=42&desc=software%20%E2%80%A2%20games%20%E2%80%A2%20stories%20%E2%80%A2%20systems&descAlignY=63&descSize=14" />
 
 <pre>
 ╔══════════════════════════════════════════════════════╗
-║          NOT MAIKEISE // PLAYER PROFILE             ║
+║          ANNY MAIKEISE // PLAYER PROFILE             ║
 ║                                                      ║
 ║  CLASS   : Software Engineer                        ║
 ║  BUILD   : Backend / APIs / Integrations            ║
@@ -26,7 +26,7 @@
 ## ⛏ `./about_me`
 
 ```yaml
-player: Not Maikeise
+player: Anny Maikeise
 
 class:
   Software Engineer
@@ -251,13 +251,13 @@ I especially enjoy projects that live somewhere between:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4&icon_color=8C9566" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=notmaikeise&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4&icon_color=8C9566" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmaikeise&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=C6B98B&fire=8C9566&currStreakLabel=C6B98B&sideLabels=D8D2C4&dates=8C857A&currStreakNum=E8E1CF&sideNums=E8E1CF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notmaikeise&hide_border=true&background=0D0D0D&ring=C6B98B&fire=8C9566&currStreakLabel=C6B98B&sideLabels=D8D2C4&dates=8C857A&currStreakNum=E8E1CF&sideNums=E8E1CF" />
 
 </div>
 
@@ -284,7 +284,7 @@ while (alive) {
              |、˜〵
              じしˍ,)ノ
 
-        ✦ NOT MAIKEISE ✦
+        ✦ ANNY MAIKEISE ✦
 </pre>
 <sub>software engineer by trade • worldbuilder by instinct</sub>
 <br>
