@@ -122,30 +122,6 @@ Web Experiences
 
 ---
 
-## ✦ `QUEST LOG`
-
-```text
-[████████  ] Backend Engineering
-[████████░░] Java / Spring Boot
-[███████░░░] C# / .NET
-[███████░░░] Software Architecture
-[██████░░░░] System Design
-[██████░░░░] Frontend Experiments
-```
-
-Current objectives:
-
-```diff
-+ deepen my knowledge of backend architecture
-+ build cleaner and better structured APIs
-+ design maintainable and scalable systems
-+ keep improving my Java and Spring Boot skills
-+ expand my experience with C# / .NET
-+ create projects that combine code and creativity
-```
-
----
-
 ## 📖 `LORE`
 
 Some people discover programming through websites.
@@ -178,38 +154,6 @@ I care about structure.
 I care about experience.
 
 And I care about the small details people actually notice.
-
----
-
-## ☕ `ARCHIVE / PROJECTS`
-
-Here you may find repositories involving:
-
-```ini
-[backend]
-Java = true
-SpringBoot = true
-REST_APIs = true
-Microservices = true
-Integrations = true
-
-[dotnet]
-CSharp = true
-DotNet = true
-SQL = true
-BusinessSystems = true
-
-[creative]
-Minecraft = always
-Automation = true
-WebExperiments = true
-GameSystems = true
-DigitalArt = true
-```
-
-I especially enjoy projects that live somewhere between:
-
-> **engineering × creativity × games**
 
 ---
 
