@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FF5A00,50:FF6A00,100:FF8C00&text=ANNY%20MAIKEISE&fontColor=FFF4E6&fontSize=48&fontAlignY=42&desc=software%20%E2%80%A2%20games%20%E2%80%A2%20stories%20%E2%80%A2%20systems&descAlignY=63&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:FF5A00,50:FF6A00,100:FF8C00&text=ANNY%20MAIKEISE&fontColor=FFF4E6&fontSize=46&fontAlignY=42&desc=software%20%E2%80%A2%20systems%20%E2%80%A2%20games%20%E2%80%A2%20stories&descAlignY=63&descSize=14" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=FF6A00&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%2F+Full+Stack;Java+%2B+Spring+Boot;APIs+%E2%80%A2+Microservices+%E2%80%A2+Integrations" />
 
 <pre>
 ╔══════════════════════════════════════════════════════╗
-║          ANNY MAIKEISE // PLAYER PROFILE             ║
+║         ANNY MAIKEISE // PLAYER PROFILE              ║
 ║                                                      ║
-║  CLASS   : Software Engineer                        ║
-║  BUILD   : Backend / APIs / Integrations            ║
-║  REGION  : Brazil                                   ║
-║  STATUS  : currently building things                ║
+║  CLASS     : Software Engineer                       ║
+║  BUILD     : Backend / Full Stack                    ║
+║  MAIN      : Java + Spring Boot                      ║
+║  SECONDARY : C# + .NET                               ║
+║  SPECIALTY : APIs / Integrations / Microservices     ║
+║  REGION    : Brazil                                  ║
 ╚══════════════════════════════════════════════════════╝
 </pre>
 
-`JAVA`　`SPRING BOOT`　`C#`　`.NET`　`SQL`　`GIT`
-
 <br>
 
-<sub>engineering × creativity × games</sub>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,postgres,html,css,js,git,docker&theme=dark" />
 
 </div>
 
@@ -25,212 +27,64 @@
 
 ## ⛏ `./about_me`
 
-```yaml
-player: Anny Maikeise
+Backend-oriented Software Engineer with experience in **Java, Spring Boot, APIs, microservices and integrations**.
 
-class:
-  Software Engineer
+Also working with **C# / .NET, SQL, ERP and Full Stack development**.
 
-specialization:
-  - Backend Development
-  - APIs & Integrations
-  - Microservices
-  - Software Architecture
-
-main_stack:
-  - Java
-  - Spring Boot
-  - C#
-  - .NET
-  - SQL
-
-side_quests:
-  - Minecraft projects
-  - Digital art
-  - Content creation
-  - Creative coding
-  - Web experiments
-  - Game systems
-```
-
-I'm a developer mainly focused on **backend engineering, integrations and software architecture**.
-
-My journey started with **Java**, working with backend systems, REST APIs, microservices and integrations in real-world development environments.
-
-Over time, my stack expanded into **C# / .NET, SQL and business systems**, while I continue to deepen my knowledge of Java, architecture and backend development.
-
-What interests me most about programming is not simply making something work.
-
-I like understanding **why it works, how each part communicates and how a system can evolve without turning into chaos**.
+`FinTech` · `Payments` · `Enterprise Systems` · `Backend`
 
 ---
 
+## ⚔ `TECH INVENTORY`
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,maven,gradle&theme=dark" />
+
+`Java` · `Spring Boot` · `C#` · `.NET` ·
+`REST APIs` · `Microservices` · `Integrations`
+
+### `FRONTEND & DATA`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgres&theme=dark" />
+
+`HTML` · `CSS` · `JavaScript` · `SQL` ·
+`MySQL` · `PostgreSQL`
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,gradle,postman,idea,eclipse,vscode&theme=dark" />
+
+`Git` · `Mercurial` · `TortoiseHg` · `GitHub` · `Docker` ·
+`Postman` · `IntelliJ IDEA` · `Eclipse` · `VS Code`
+
+---
+
+## 📜 `KNOWLEDGE BOOK`
+
+```text id="93hnc0"
+Architecture  → DDD · Clean · Hexagonal · System Design
+Principles    → OOP · SOLID · Design Patterns · Clean Code
+Backend       → REST · Microservices · Integrations
+Domains       → FinTech · Payments · ERP · Business Systems
+```
+
+---
+
+## ⚒ `CURRENT QUEST`
+
+`Java` · `Spring Boot` · `Software Architecture` ·
+`DDD` · `Microservices` · `Distributed Systems`
+
+---
+
+## ✦ `SIDE QUESTS`
+
+`Minecraft` · `Games` · `Digital Art` · `Automation` ·
+`Worldbuilding` · `Creative Coding`
+
+---
 <div align="center">
-
-### ⋆｡°✩ `TECH INVENTORY` ✩°｡⋆
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=700&color=FF6A00&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Backend;C%23+%E2%80%A2+.NET+%E2%80%A2+Full+Stack;APIs+%E2%80%A2+Microservices+%E2%80%A2+Integrations;FinTech+%E2%80%A2+Payments+%E2%80%A2+Enterprise+Systems;Software+Architecture+%E2%80%A2+DDD+%E2%80%A2+System+Design;Minecraft+%E2%80%A2+Games+%E2%80%A2+Digital+Art;Automation+%E2%80%A2+Worldbuilding+%E2%80%A2+Creative+Coding" />
 </div>
-
-### ⚔ MAIN HAND
-
-```text
-Java
-├── Spring Boot
-├── REST APIs
-├── Microservices
-├── Integrations
-├── Maven / Gradle
-└── Backend Architecture
-```
-
-### 🛡 OFF HAND
-
-```text
-C#
-├── .NET
-├── APIs
-├── SQL
-├── Business Systems
-└── ERP Development
-```
-
-### 📜 KNOWLEDGE BOOK
-
-```text
-Object-Oriented Programming
-SOLID
-Clean Architecture
-Repository Pattern
-Domain Modeling
-API Design
-System Design
-Software Architecture
-```
-
-### 🧪 EXPERIMENTS
-
-```text
-HTML
-CSS
-JavaScript
-Automation
-Google APIs
-Creative Coding
-Game Systems
-Web Experiences
-```
-
----
-
-## 📖 `LORE`
-
-Some people discover programming through websites.
-
-Others through algorithms.
-
-I've always been interested in the place where **technology and creativity meet**.
-
-Outside software engineering, I enjoy creating projects involving:
-
-```text
-╭─────────────────────────────╮
-│ Minecraft                   │
-│ Roleplay & storytelling     │
-│ Gaming communities          │
-│ Digital art                 │
-│ Content creation            │
-│ Interactive experiences     │
-╰─────────────────────────────╯
-```
-
-Minecraft, especially, became much more than just a game for me.
-
-It is also a space where I can experiment with **systems, communities, storytelling, servers, mods and worldbuilding**.
-
-That creative side also influences the way I build software.
-
-I care about structure.
-
-I care about experience.
-
-And I care about the small details people actually notice.
-
----
-
-## 🕯 `CURRENT RESEARCH`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  > backend architecture                    │
-│  > distributed systems                     │
-│  > microservices                           │
-│  > clean code                              │
-│  > software design                         │
-│  > payment & business systems              │
-│  > APIs and integrations                   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 🗝 `PROFESSIONAL INTERESTS`
-
-<div align="center">
-
-`BACKEND` ・ `JAVA` ・ `SPRING BOOT`
-
-`C#` ・ `.NET` ・ `SQL`
-
-`APIs` ・ `MICROSERVICES` ・ `INTEGRATIONS`
-
-`SOFTWARE ARCHITECTURE` ・ `SYSTEM DESIGN`
-
-</div>
-
----
-
-## 📊 `PLAYER STATS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=notmaikeise&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4&icon_color=8C9566" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmaikeise&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6B98B&text_color=D8D2C4" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notmaikeise&hide_border=true&background=0D0D0D&ring=C6B98B&fire=8C9566&currStreakLabel=C6B98B&sideLabels=D8D2C4&dates=8C857A&currStreakNum=E8E1CF&sideNums=E8E1CF" />
-
-</div>
-
----
-
-## 🌱 `SPAWN POINT`
-
-```java
-while (alive) {
-    learn();
-    create();
-    improve();
-}
-```
-
-<div align="center">
-
-<pre>
-                 .     *       .
-        *                  .
-
-              ╱|、
-            (˚ˎ 。7
-             |、˜〵
-             じしˍ,)ノ
-
-        ✦ ANNY MAIKEISE ✦
-</pre>
-<sub>software engineer by trade • worldbuilder by instinct</sub>
-<br>
-`[ respawn point set ]`
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FF5A00,50:FF6A00,100:FF8C00&section=footer" />
