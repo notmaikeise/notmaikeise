@@ -1,100 +1,68 @@
-<p align="center">
-  <img src="./assets/header-editorial.svg" width="100%" alt="Anny Maikeise — Software Engineer. Backend, systems and creative thinking." />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#expertise">Expertise</a> &nbsp; / &nbsp;
-  <a href="#stack">Stack</a> &nbsp; / &nbsp;
-  <a href="#learning">Learning</a> &nbsp; / &nbsp;
-  <a href="#beyond-code">Beyond code</a>
-</p>
+<img src="./assets/minecraft-header.svg" width="100%" alt="Anny Maikeise — pixel landscape with a glowing portal, floating particles and an animated experience bar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=1100&amp;color=FF8A3D&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer+%2F%2F+Brazil;Main+build%3A+Java+%2B+Spring+Boot;Secondary%3A+C%23+%2B+.NET;APIs+%E2%80%A2+Microservices+%E2%80%A2+Integrations" alt="Animated player roles: Software Engineer, Java and Spring Boot, C# and .NET, APIs and integrations" />
 
 <br />
 
-<a id="about"></a>
-### 01 / The engineer behind the code
+<img src="./assets/player-profile.svg" width="720" alt="Player profile: Software Engineer. Build: Backend / Full Stack. Main: Java + Spring Boot. Secondary: C# + .NET. Domain: FinTech / Payments / ERP. Region: Brazil." />
 
-I'm **Anny**, a software engineer based in **Brazil**, focused on backend development with **Java and Spring Boot**. My experience spans APIs, microservices and integrations, with work across **FinTech, payments and enterprise systems**.
-
-I also work across the stack with **C# / .NET, SQL, HTML, CSS and JavaScript**. I enjoy understanding business rules, tracing how systems communicate and turning that knowledge into maintainable software.
-
-<p>
-  <img src="https://img.shields.io/badge/PRIMARY-Java%20%2B%20Spring%20Boot-FF7A32?style=flat-square&amp;labelColor=20242B" alt="Primary focus: Java and Spring Boot" />
-  <img src="https://img.shields.io/badge/ALSO-C%23%20%2F%20.NET-FFB078?style=flat-square&amp;labelColor=20242B" alt="Also working with C# and .NET" />
-  <img src="https://img.shields.io/badge/BASED%20IN-Brazil-FFD2AF?style=flat-square&amp;labelColor=20242B" alt="Based in Brazil" />
-</p>
+</div>
 
 <br />
 
-<a id="expertise"></a>
-### 02 / Where I contribute
+## ⛏️ `./about_me`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ Backend &amp; integrations</h3>
-      <p>REST APIs, microservices and communication between systems, with attention to business rules and maintainability.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>C#</code> <code>.NET</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌘ Business systems</h3>
-      <p>Experience with payments, FinTech and ERP contexts, connecting technical decisions to the processes they support.</p>
-      <p><code>Payments</code> <code>FinTech</code> <code>ERP</code> <code>SQL</code></p>
-    </td>
-  </tr>
-</table>
+Backend-oriented Software Engineer working with **Java, Spring Boot, APIs, microservices and integrations**. Also building with **C# / .NET, SQL and Full Stack development**.
+
+`FinTech` · `Payments` · `ERP` · `Business Systems`
 
 <br />
 
-<a id="stack"></a>
-### 03 / My working toolkit
+## 🧰 `TECH INVENTORY`
 
-**Backend & build**
+#### ⚔️ Main equipment — Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,maven,gradle&amp;theme=dark&amp;perline=6" alt="Java, Spring, C#, .NET, Maven and Gradle" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,maven,gradle&amp;theme=dark" alt="Java, Spring, C#, .NET, Maven and Gradle" />
 
-**Frontend & data**
+`REST APIs` · `Microservices` · `Integrations`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgres&amp;theme=dark&amp;perline=5" alt="HTML, CSS, JavaScript, MySQL and PostgreSQL" />
+#### 💎 Resources — Frontend & Data
 
-**Development tools**
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgres&amp;theme=dark" alt="HTML, CSS, JavaScript, MySQL and PostgreSQL" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,eclipse,vscode&amp;theme=dark&amp;perline=7" alt="Git, GitHub, Docker, Postman, IntelliJ IDEA, Eclipse and VS Code" />
+#### 🔨 Crafting table — Tools
 
-<sub>Also used: Mercurial and TortoiseHg.</sub>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,eclipse,vscode&amp;theme=dark" alt="Git, GitHub, Docker, Postman, IntelliJ IDEA, Eclipse and VS Code" />
 
-<details>
-  <summary><b>Explore my architecture &amp; engineering interests</b></summary>
-  <br />
-  <ul>
-    <li><b>Architecture:</b> Domain-Driven Design, Clean Architecture, Hexagonal Architecture and system design.</li>
-    <li><b>Foundations:</b> object-oriented programming, SOLID, design patterns and clean code.</li>
-    <li><b>Backend:</b> REST APIs, microservices and integrations.</li>
-    <li><b>Business domains:</b> FinTech, payments, ERP and enterprise systems.</li>
-  </ul>
-</details>
+`Mercurial` · `TortoiseHg`
 
 <br />
 
-<a id="learning"></a>
-### 04 / What I'm exploring
+## 📖 `ENCHANTMENT BOOK`
 
-Deepening my knowledge of **Java, Spring Boot and software architecture**, with a focus on domain modeling, microservices and distributed systems.
+```yaml
+architecture: [DDD, Clean, Hexagonal, System Design]
+principles:   [OOP, SOLID, Design Patterns, Clean Code]
+backend:      [REST, Microservices, Integrations]
+domains:      [FinTech, Payments, ERP]
+```
 
-> Understand the domain. Make the tradeoffs explicit. Keep improving the design.
+## 🧭 `ACTIVE QUESTS`
+
+`Java` · `Spring Boot` · `Software Architecture` · `DDD` · `Distributed Systems`
+
+## 🌱 `SIDE QUESTS`
+
+`Minecraft` · `Games` · `Digital Art` · `Automation` · `Worldbuilding` · `Creative Coding`
 
 <br />
 
-<a id="beyond-code"></a>
-### 05 / A creative side, too
+<div align="center">
 
-Outside software engineering, I enjoy **Minecraft, games, digital art and worldbuilding**. Automation and creative coding are where these interests meet my technical work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=14&amp;duration=2800&amp;pause=1400&amp;color=FFAD66&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Backend;APIs+%E2%80%A2+Payments+%E2%80%A2+Integrations;Minecraft+%E2%80%A2+Digital+Art+%E2%80%A2+Worldbuilding" alt="Animated interests: backend, integrations, Minecraft, digital art and worldbuilding" />
 
-<p align="center">
-  <br />
-  <b>Software · Systems · Games · Stories</b><br />
-  <sub>ANNY MAIKEISE / NOTMAIKEISE</sub>
-</p>
+<img src="./assets/xp-footer.svg" width="100%" alt="Animated pixel experience bar — software, systems, games and stories" />
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+</div>
